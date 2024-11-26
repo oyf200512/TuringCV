@@ -4,7 +4,7 @@
 
 ## 考核内容
 
-使用 OpenCV 和 NumPy 等实现一个综合图形处理程序，并上传到GitHub上
+使用 OpenCV 和 NumPy 等实现一个综合图形处理程序，并上传到GitHub上https://github.com/K1taharaSetsuna/TuringCV
 
 1. 几何图形绘制
 2. 边缘检测与计数
