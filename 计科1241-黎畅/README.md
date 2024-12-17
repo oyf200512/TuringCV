@@ -26,7 +26,7 @@
 - 使用`cv2.matchTemplate()`函数检测相似度最高的地方
 
 - 接着找出最大值：`cv2.minMaxLoc(result)`
-  *本来想用`loc = np.where(result >= 0.8)`来找出所有相似的点的，但会造成大量框框重叠，难以战胜QAQ*
+**本来想用`loc = np.where(result >= 0.8)`来找出所有相似的点的，但会造成大量框框重叠，难以战胜QAQ**
 
 - 在copy下来的图像画矩形框出对应三角形，并进行标注
 
